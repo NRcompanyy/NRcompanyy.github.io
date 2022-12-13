@@ -9,28 +9,28 @@
         },
         {
             "id": 2,
-            "title": "OMEGA Speedmaster",
+            "title": "Unidad USB",
             "price": 104,
             "image": "https://ae01.alicdn.com/kf/S6d31384ba47f4967acbf23dd7adb81ebV/Unidad-Flash-Usb-de-dibujos-animados-bonitos-Pendrive-de-dibujos-animados-Usb-2-0-Flash-Drive.jpg_640x640.jpg",
             "category": "usb"
         },
         {
             "id": 3,
-            "title": "AUDEMARS PIGUET",
+            "title": "Unidad USB",
             "price": 75,
             "image": "https://ae01.alicdn.com/kf/Hd3ae4073180c4240b681627a1019bc0b9/Kingston-unidad-Flash-USB-3-0-Pendrive-Mini-de-32GB-64GB-con-cord-n-unidad-Flash.jpg_Q90.jpg_.webp",
             "category": "usb"
         },
         {
             "id": 4,
-            "title": "HUBLOT Big Bang",
+            "title": "Unidad USB",
             "price": 99,
             "image": "https://ae01.alicdn.com/kf/S85592b9729074c0db429f4e7ac98fa32F/memorias-usb-Unidad-Flash-USB-2-0-de-dibujos-animados-16GB-usb-memoria-pendrive-de-16GB.jpg_640x640.jpg",
             "category": "usb"
         },
         {
             "id": 5,
-            "title": "ROLEX Day-Date",
+            "title": "Unidad USB",
             "price": 105,
             "image": "https://ae01.alicdn.com/kf/Hd4809a4c717a4584ab65e50df26ab177u/JASTER-pendrive-modelo-de-oso-lindo-unidad-flash-usb-2-0-4GB-8GB-16GB-32GB-64GB.jpg_Q90.jpg_.webp",
             "category": "usb"
@@ -38,85 +38,85 @@
         },
         {
             "id": 6,
-            "title": "TAG HEUER Carrera Calibre",
+            "title": "Camara",
             "price": 85,
             "image": "https://ae01.alicdn.com/kf/Hb3cd2fa9348c468d8685518380a453bd7/C-mara-Digital-con-dise-o-de-Zoom-de-enfoque-16X-1920x1080-compatible-con-tarjeta-SD.jpg_640x640.jpg",
-            "category": "tag"
+            "category": "camaras"
 
         },
         {
             "id": 7,
-            "title": "Roles Datejust",
+            "title": "Unidad USB",
             "price": 60,
             "image": "https://ae01.alicdn.com/kf/Sf02af478d6634e53be875a4efd72641az/LLavero-de-silicona-negra-para-ni-os-de-64GB-unidad-Flash-USB-32GB-16GB-Memory-Stick.jpg_640x640.jpg",
             "category": "usb"
         },
         {
             "id": 8,
-            "title": "OMEGA Speedmaster",
+            "title": "Reloj Inteligente",
             "price": 35,
             "image": "https://ae01.alicdn.com/kf/Sdf1deb48b3e848c389b054ad1ac3d578T/ZL02D-reloj-inteligente-deportivo-para-hombre-y-mujer-accesorio-de-pulsera-resistente-al-agua-con-Monitor.jpg_640x640.jpg",
             "category": "relojes"
         },
         {
             "id": 9,
-            "title": "AUDEMARS PIGUET",
+            "title": "Unidad USB",
             "price": 799,
             "image": "https://ae01.alicdn.com/kf/S9523c8ed618b458cb6a323bf1b1670d9q/Pendrive-USB-de-256GB-Pendrive-de-dibujos-animados-de-animales-ping-ino-memoria-Flash-de-128GB.jpg_640x640.jpg",
             "category": "usb"
         },
         {
             "id": 10,
-            "title": "HUBLOT Big Bang",
+            "title": "Audifonos inalambricos",
             "price": 101,
             "image": "https://ae01.alicdn.com/kf/S330aa8996797429dba1f60ac7f7d8656f/Auriculares-i7s-Mini-2-TWS-inal-mbricos-por-Bluetooth-5-0-auriculares-Matte-Macaron-HIFI-manos.jpg_640x640.jpg",
-            "category": "hublot"
+            "category": "audifonos"
         },
         {
             "id": 11,
-            "title": "ROLEX Day-Date",
+            "title": "Unidad USB",
             "price": 650,
             "image": "https://ae01.alicdn.com/kf/S3c48ec1ff4344594ade82383c8f3ec8da/Pendrive-de-pl-stico-con-patr-n-de-tarjeta-bancaria-unidad-Flash-USB-2-0-4GB.jpg_640x640.jpg",
             "category": "usb"
         },
         {
             "id": 12,
-            "title": "TAG HEUER Carrera Calibre",
+            "title": "Audifonos inalambricos",
             "price": 65,
             "image": "https://ae01.alicdn.com/kf/HTB1SaQIoHsTMeJjSsziq6AdwXXaE/Auriculares-Inal-mbricos-con-Bluetooth-Aud-fonos-Coloridos-con-Audio-Est-reo-MP3-Soporte-para-Tarjeta.jpg_640x640.jpg",
-            "category": "tag"
+            "category": "audifonos"
         },
         {
             "id": 13,
-            "title": "Roles Datejust",
+            "title": "Dron",
             "price": 101,
             "image": "https://ae01.alicdn.com/kf/Sb75a7e9718c94ac98001aa1527d6b4a9s/Dron-profesional-con-GPS-y-c-mara-HD-8K-5G-FPV-WIFI-seguimiento-inteligente-sin-escobillas.jpg_640x640.jpg",
             "category": "drones"
         },
         {
             "id": 14,
-            "title": "OMEGA Speedmaster",
+            "title": "Unidad USB",
             "price": 104,
             "image": "https://ae01.alicdn.com/kf/Sba884341de984ef1ae5abdcfc2eb426di/Unidad-flash-usb-de-rgano-de-dibujos-animados-pendrive-de-4GB-8GB-16GB-disco-U-cond.jpg_640x640.jpg",
             "category": "usb"
         },
         {
             "id": 15,
-            "title": "AUDEMARS PIGUET",
+            "title": "Unidad USB",
             "price": 75,
             "image": "https://ae01.alicdn.com/kf/Sd112d42a83f84c868df201e0921ea227B/Unidad-Flash-USB-de-Catoon-PenDrive-de-memoria-de-64GB-32GB-4GB-8GB-16GB-regalo-encantador.jpg_Q90.jpg_.webp",
             "category": "usb"
         },
         {
             "id": 16,
-            "title": "HUBLOT Big Bang",
+            "title": "Unidad USB",
             "price": 99,
             "image": "https://ae01.alicdn.com/kf/H3b1aeed364084c5c9de346d46f904529X/Samsung-unidad-Flash-Usb-3-1-Pendrive-de-256gb-128gb-32gb-64gb-Mini-Memoria-Flash-de.jpg_Q90.jpg_.webp",
             "category": "usb"
         },
         {
             "id": 17,
-            "title": "Memoria usb",
+            "title": "Unidad USB",
             "price": 105,
             "image": "https://ae01.alicdn.com/kf/Sc4f5a055c2534997837ec88fcb0b5871E/Fivestars-Memoria-Usb-2-0-de-silicona-Pendrive-de-tobillo-de-dibujos-animados-6-estilos-4gb.jpg_640x640.jpg",
             "category": "usb"
@@ -124,7 +124,7 @@
         },
         {
             "id": 18,
-            "title": "TAG HEUER Carrera Calibre",
+            "title": "Unidad USB",
             "price": 85,
             "image": "https://ae01.alicdn.com/kf/Hddbbaefaba004ff4821d3e7fa513f9821/JASTER-unidad-flash-USB-de-4GB-y-8GB-pendrive-especial-bonito-de-16GB-32GB-y-64GB.jpg_640x640.jpg",
             "category": "usb"
@@ -132,21 +132,21 @@
         },
         {
             "id": 19,
-            "title": "Roles Datejust",
+            "title": "Unidad USB",
             "price": 60,
             "image": "https://ae01.alicdn.com/kf/H9dd65636af4047829c2786bf47a8e1a4Q/Pendrive-de-Metal-unidad-Flash-Usb-de-8G-16G-32G-64GB-llavero-tarjeta-Flash-Usb-2.jpg_640x640.jpg",
-            "category": "rolex"
+            "category": "usb"
         },
         {
             "id": 20,
-            "title": "OMEGA Speedmaster",
+            "title": "Audifonos inalambricos",
             "price": 35,
             "image": "https://ae01.alicdn.com/kf/Scb5911c5c4c8484cbf70683c4dc5b2739/EDIFIER-auriculares-inal-mbricos-W800BT-PLUS-con-Bluetooth-5-1-Unidad-de-controladores-de-40mm-hasta.jpg_640x640.jpg",
             "category": "audifonos"
         },
         {
             "id": 21,
-            "title": "AUDEMARS PIGUET",
+            "title": "Reloj Inteligente",
             "price": 99,
             "image": "https://ae01.alicdn.com/kf/Sf62bb2fe41d1432186e6f29181d3ff2f8/Reloj-inteligente-WS27-Original-para-hombre-y-mujer-accesorio-de-pulsera-con-Bluetooth-control-del-ritmo.jpg_640x640.jpg",
             "category": "relojes"
@@ -160,14 +160,14 @@
         },
         {
             "id": 23,
-            "title": "ROLEX Day-Date",
+            "title": "Binoculares",
             "price": 65,
             "image": "https://ae01.alicdn.com/kf/Se7847005fd4c4fcca13962e6ec006db7G/Prism-ticos-L30-80X80-de-largo-alcance-telescopio-HD-de-alta-potencia-de-15000m-lente-de.jpg_Q90.jpg_.webp",
             "category": "binoculares"
         },
         {
             "id": 24,
-            "title": "TAG HEUER Carrera Calibre",
+            "title": "Mando para celular",
             "price": 65,
             "image": "https://ae01.alicdn.com/kf/Sc1b7b39259b04e68a2f90b5280752dc0t/Mando-inal-mbrico-BT-5-0-para-tel-fono-m-vil-retr-ctil-para-Android-e.jpg",
             "category": "mandos"
