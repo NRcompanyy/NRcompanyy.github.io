@@ -639,7 +639,7 @@ footer .foo-row .foo-col ul li a:hover{
     }
 }
 
-@media screen and (max-width: 300px){
+@media screen and (max-width: 100px){
     .hm-banner{
         height: 320px;
         min-height: 320px;
